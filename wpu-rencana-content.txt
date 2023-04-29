@@ -4,6 +4,7 @@ rencana konten WPU
   * ES6
   * FrameWork javascipt
    ^ View
+   ^ React
 - Struktur Data Dasar
 - PHP Framework
   ^ Laravel
